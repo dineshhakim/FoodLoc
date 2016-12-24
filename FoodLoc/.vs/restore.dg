@@ -1,0 +1,7 @@
+#:D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc\FoodLoc.API.xproj
+D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc\FoodLoc.API.xproj|D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc.Models\FoodLoc.Models.xproj
+D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc\FoodLoc.API.xproj|D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc.Services\FoodLoc.Services.xproj
+D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc\FoodLoc.API.xproj|D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc.Repositories\FoodLoc.Repositories.xproj
+D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc.Services\FoodLoc.Services.xproj|D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc.Models\FoodLoc.Models.xproj
+D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc.Services\FoodLoc.Services.xproj|D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc.Repositories\FoodLoc.Repositories.xproj
+D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc.Repositories\FoodLoc.Repositories.xproj|D:\Projects\FoodLoc\trunk\FoodLoc\src\FoodLoc.Models\FoodLoc.Models.xproj
